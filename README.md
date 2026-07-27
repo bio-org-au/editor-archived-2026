@@ -1,8 +1,30 @@
 # Editor README
----
+
+## Archived Repo
+
+This repo is now archived because it is no longer in active use.
+
+The background is that this Rails App was the NSL Editor from 2019-2026.
+
+I created it from scratch in 2019 when I had problems upgrading the existing app - I started with a fresh Rails App and basically copied app code into it from the existing NSL Editor.
+
+It seemed like a workable solution to the problems I was having at the time.
+
+It was essentially the same as the original NSL Editor which had run from about 2013-2019 - but on a new Rails version.
+
+Of course, that way of creating a new app, by grabbing the app code from the existing app, carried over the functionality but lost all the early history of changes, and that was an unfortunate side-effect.
+
+In 2026 I wanted to get that history back into the main repo, so I merged this repo back onto the original repo to produce the current nsl-editor repo.
+
+That nsl-editor repo (https://github.com/bio-org-au/nsl-editor) is now the NSL Editor, and it does have the full history.
+
+We have been using that new repo now for several weeks, so I'm archiving this repo in July 2026.
+
+
+
+## Intoduction
 This is the names and taxonomy Editor for the NSL project, widely known as the "NSL Editor".
 
-This document was last updated in March 2026.
 
 ## Background
 
